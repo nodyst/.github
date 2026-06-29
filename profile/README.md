@@ -172,7 +172,7 @@ Whether you're a client, contributor, student, or fellow builder, we'd love to c
 
 ## Nodyst
 
-**Engineering software that creates opportunity.**
+**Software Engineering that creates opportunity.**
 
 Made with ❤️ by students for students.
 
