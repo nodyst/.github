@@ -174,6 +174,6 @@ Whether you're a client, contributor, student, or fellow builder, we'd love to c
 
 **Engineering software that creates opportunity.**
 
-Made with ❤️ by engineers who love building.
+Made with ❤️ by students for students.
 
 </div>
