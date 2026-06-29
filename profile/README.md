@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/296977296?s=200&v=4" alt="Avatar" />
+</div>
 
 # nodyst
 
